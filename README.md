@@ -1,2 +1,2 @@
 # Git_Shivani
-Learning Git
+In this Repository I have done some small projects while Learning Python.
